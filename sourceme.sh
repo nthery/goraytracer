@@ -1,0 +1,3 @@
+export GOMAXPROCS=4
+export GOPATH=$PWD
+PATH=$PWD/bin:$PATH
