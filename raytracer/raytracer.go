@@ -29,7 +29,7 @@ package raytracer
 
 import (
 	"fmt"
-	"github.com/nthery/geom"
+	"github.com/nthery/goraytracer/geom"
 	"image"
 	"image/color"
 	"math"

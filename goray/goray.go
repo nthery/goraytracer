@@ -32,7 +32,7 @@ package main
 import (
 	"encoding/json"
 	"flag"
-	"github.com/nthery/raytracer"
+	"github.com/nthery/goraytracer/raytracer"
 	"image"
 	"image/png"
 	"io/ioutil"
