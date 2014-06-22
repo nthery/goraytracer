@@ -59,7 +59,7 @@ func isColorChannelValid(c float64) bool {
 
 // Sphere objects are part of the scene to render.
 type Sphere struct {
-	// No embedding here for compatibility with json package 
+	// No embedding here for compatibility with json package
 	Sphere geom.Sphere
 	Color  Color
 }
